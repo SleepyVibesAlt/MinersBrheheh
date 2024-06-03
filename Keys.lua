@@ -1,3 +1,3 @@
 return {
-  "free", --DiscordUserId = "123",
+  "free", --DiscordUserId = "123",--Activated = False
 }
