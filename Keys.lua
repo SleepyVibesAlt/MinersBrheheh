@@ -7,3 +7,5 @@ return {
 
 
 
+
+"HwidNotSet" --Key = "6e89e960-0a35-4673-ba05-ac1bfa2dd621", --DiscordUserId = "847907964257697803", --RBLXUserId = "UserIdNotSet", --Activated = False
