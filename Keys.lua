@@ -1,4 +1,12 @@
 return {
+{
+    Hwid = "AnotherHwid",
+    Key = "another-key-value",
+    DiscordUserId = "123456789012345678",
+    RBLXUserId = "AnotherUserId",
+    Blacklisted = true,
+    Activated = true
+},
     ["Whitelist Data"] = {
         {
             Hwid = "HwidNotSet",
