@@ -53,8 +53,5 @@ local function executeScriptFromUrl(url, keyToCheck)
     end
 end
 
--- Example key to check against
-local keyToCheck = "7540ea77-199c-4301-ab33-aa3a12ee9f34"  -- Replace with the key you want to check
-
 -- Execute the script and print specific entry by key and check Activated flag
 executeScriptFromUrl(scriptUrl, keyToCheck)
