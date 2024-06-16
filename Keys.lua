@@ -26,14 +26,5 @@ return {
             Blacklisted = false,
             Activated = false
         },
-
-        {
-            Key = "e6021607-162d-4a6a-82ea-293c7fd49956",
-            RBLXUserId = "UserNotSet",
-            Hwid = "NotSet",
-            DiscordUserId = "847907964257697803",
-            Blacklisted = false,
-            Activated = false
-        },
     }
 }
