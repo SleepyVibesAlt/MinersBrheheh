@@ -1,4 +1,12 @@
 local scriptUrl = "https://raw.githubusercontent.com/SleepyVibesAlt/MinersBrheheh/main/Keys.lua"
+local player = game.Players.LocalPlayer
+local playerId = player.UserId
+
+-- Example function to simulate running a script
+local function RunScript()
+    print("Running script...")
+    -- Replace with your actual script logic
+end
 
 -- Function to fetch and execute Lua script from URL
 local function executeScriptFromUrl(url, keyToCheck)
@@ -20,12 +28,16 @@ local function executeScriptFromUrl(url, keyToCheck)
                     print("  RBLXUserId:", entry.RBLXUserId)
                     print("  Blacklisted:", entry.Blacklisted)
                     print("  Activated:", entry.Activated)
-                    -- Compare DiscordUserId
-                    if entry.DiscordUserId == "YOUR_SPECIFIC_DISCORD_USER_ID" then
-                        print("Match found! DiscordUserId matches.")
+                    
+                    -- Check if entry is activated
+                    if not entry.Activated then
+                        print("Your key is not activated. Please go and activate your key in our server discord.gg/mobilescripthub")
                     else
-                        print("DiscordUserId does not match.")
+                        print("Entry is activated. Running script...")
+                        -- Example: Call RunScript function if activated
+                        RunScript()
                     end
+                    
                     print("-----------------------")
                     break
                 end
@@ -41,7 +53,8 @@ local function executeScriptFromUrl(url, keyToCheck)
     end
 end
 
-print(keyToCheck)
+-- Example key to check against
+local keyToCheck = "7540ea77-199c-4301-ab33-aa3a12ee9f34"  -- Replace with the key you want to check
 
--- Execute the script and print specific entry by key
+-- Execute the script and print specific entry by key and check Activated flag
 executeScriptFromUrl(scriptUrl, keyToCheck)
