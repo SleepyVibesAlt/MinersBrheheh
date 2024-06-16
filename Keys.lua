@@ -1,5 +1,13 @@
 return {
     ["Whitelist Data"] = {
+       {
+           Hwid = "NotSet",
+          Key = "{key}",
+           DiscordUserId = "{user_id}",
+          RBLXUserId = "UserNotSet",
+           Blacklisted = false,
+          Activated = false
+      },
 {
             Hwid = "NotSet",
           Key = "{key}",
