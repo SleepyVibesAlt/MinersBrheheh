@@ -14,8 +14,8 @@ return {
             DiscordUserId = "123456789012345678",
             RBLXUserId = "UpdatedRBLXUserId",
             Blacklisted = false,
-            Activated = false
-        }
+            Activated = true
+        },
         {
             Hwid = "AnotherHwid",
             Key = "another-key-value",
