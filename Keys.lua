@@ -27,5 +27,3 @@ return {
         }
     }
 }
-
--- New line added by bot
