@@ -6,7 +6,7 @@ return {
             Hwid = "NotSet",
             DiscordUserId = 847907964257697803,
             Blacklisted = false,
-            Activated = false
+            Activated = true
         },
 
         {
