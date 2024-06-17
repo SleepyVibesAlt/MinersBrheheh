@@ -1,5 +1,4 @@
 return {
-    ["Whitelist Data"] = {
         {
             Key = "aff8500a-d18d-4c9e-be1f-4eefa54f7d95",
             RBLXUserId = "UserNotSet",
