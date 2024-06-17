@@ -26,6 +26,5 @@ return {
             Blacklisted = false,
             Activated = false
         },
-
     }
 }
