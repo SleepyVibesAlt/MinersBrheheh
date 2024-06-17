@@ -4,7 +4,7 @@ return {
             Key = "283b5b60-2b59-41a6-8557-837d3ca38849",
             RBLXUserId = "UserNotSet",
             Hwid = "NotSet",
-            DiscordUserId = "847907964257697803",
+            DiscordUserId = 847907964257697803,
             Blacklisted = false,
             Activated = false
         },
