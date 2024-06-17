@@ -5,7 +5,6 @@ return {
             RBLXUserId = "UserNotSet",
             Hwid = "NotSet",
             DiscordUserId = 847907964257697803,
-            DiscordUserId = 847907964257697803,
             Blacklisted = false,
             Activated = false
         },
