@@ -1,6 +1,15 @@
 return {
     {
         {
+            Key = "cf6456a1-6f0e-413d-bae6-378757f555aa",
+            RBLXUserId = "UserNotSet",
+            Hwid = "NotSet",
+            DiscordUserId = 847907964257697803,
+            Blacklisted = false,
+            Activated = true
+        },
+
+        {
             Key = "5700e341-8c9f-4ac3-a57d-69e3804d6e22",
             RBLXUserId = "UserNotSet",
             Hwid = "NotSet",
