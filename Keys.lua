@@ -1,6 +1,15 @@
 return {
     ["Whitelist Data"] = {
         {
+            Key = "bf1e67b1-d596-4219-88f8-bc7849d2f6c4",
+            RBLXUserId = "UserNotSet",
+            Hwid = "NotSet",
+            DiscordUserId = 847907964257697803,
+            Blacklisted = false,
+            Activated = true
+        },
+
+        {
             Key = "18d7a4ce-e7f7-4e8a-b452-12e07a49d0fe",
             RBLXUserId = "UserNotSet",
             Hwid = "NotSet",
