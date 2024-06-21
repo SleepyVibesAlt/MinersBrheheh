@@ -1,6 +1,6 @@
 return {
     ["Whitelist Data"] = {
-        ["Project1"] = {
+        ["TVO"] = {
             {
                 Key = "d43069dc-dd6b-4c7f-8ce0-eea7856e610f",
                 RBLXUserId = "UserNotSet",
@@ -10,7 +10,8 @@ return {
                 Activated = true
             },
         },
-        ["Project2"] = {
+        
+        ["Heroes"] = {
             {
                 Key = "a12345bc-def6-7890-gh12-ij345klm6789",
                 RBLXUserId = "NewUser",
