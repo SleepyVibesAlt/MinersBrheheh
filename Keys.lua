@@ -10,3 +10,6 @@ return {
         },
     }
 }
+
+DiscordUserId = 1178991220542931015
+            Blacklisted = true
