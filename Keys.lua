@@ -8,6 +8,5 @@ return {
             Blacklisted = false,
             Activated = true
         },
-
     }
 }
