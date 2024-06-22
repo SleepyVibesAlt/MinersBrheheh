@@ -1,6 +1,8 @@
 return {
     ["Script Data"] = {
-        Online = false,
-        Reason = "test"
+        {
+            Online = false,
+            Reason = "test"
+        }
     }
 }
