@@ -1,8 +1,8 @@
 return {
-    ["Script Data"] = {
+    ["Whitelist Data"] = {
         {
             Online = false,
             Reason = "test"
-        }
+        },
     }
 }
