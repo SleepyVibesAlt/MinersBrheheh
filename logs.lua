@@ -1,4 +1,6 @@
 return {
-    Scripts_Online = false
-    Offline_Reason = "Offline"
+    ["Script Data"] = {
+        Scripts_Online = false,
+        Offline_Reason = "Offline"
+    }
 }
