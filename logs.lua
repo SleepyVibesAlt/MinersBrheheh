@@ -1,7 +1,7 @@
 return {
     ["Whitelist Data"] = {
         {
-            Online = true,
+            Online = false,
             Reason = "leaked"
         },
     }
