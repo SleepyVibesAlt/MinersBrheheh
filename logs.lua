@@ -1,8 +1,8 @@
 return {
     ["Whitelist Data"] = {
         {
-            Online = true,
-            Reason = "test"
+            Online = false,
+            Reason = "2"
         },
     }
 }
