@@ -21,7 +21,7 @@ return {
         {
             Key = "6f9994a8-3983-4d37-8996-2c27067a3963",
             RBLXUserId = "1892969542",
-            Hwid = "933669a3-c9dd-46ad-8cb8-e35db54d8c55",
+            Hwid = "51ad5fb2-1c30-475a-be0c-4d8e2e713ac2",
             DiscordUserId = 1010973850521063515,
             Blacklisted = false,
             Activated = true
