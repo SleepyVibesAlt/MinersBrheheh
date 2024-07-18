@@ -2,7 +2,7 @@ return {
     ["Whitelist Data"] = {
         {
             FreeMode = false,
-            Reason = "Whitelist Bot Updating"
+            Online = true,
             Reason = "Release Soon!"
         },
     }
