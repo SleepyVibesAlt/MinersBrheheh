@@ -2,8 +2,8 @@ return {
     ["Whitelist Data"] = {
         {
             FreeMode = false,
-            Online = true,
-            Reason = "Kye fault:p"
+            Online = false,
+            Reason = "disabled until kye gives me above all role<3"
         },
     }
 }
