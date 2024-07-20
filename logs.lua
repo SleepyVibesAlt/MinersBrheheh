@@ -2,7 +2,7 @@ return {
     ["Whitelist Data"] = {
         {
             FreeMode = false,
-            Online = false,
+            Online = true,
             Reason = "Kye fault:p"
         },
     }
