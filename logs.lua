@@ -2,7 +2,7 @@ return {
     ["Whitelist Data"] = {
         {
             FreeMode = true,
-            Online = false,
+            Online = true,
             Reason = "All scripts disabled until they are fixed"
         },
     }
