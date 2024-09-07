@@ -1,7 +1,7 @@
 return {
     ["Whitelist Data"] = {
         {
-            FreeMode = true,
+            FreeMode = false,
             Online = true,
             Reason = "Script will never update anymor"
         },
